@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.issue {
+  margin: 20px;
+  padding: 5px;
+  width: 60%;
+  border: 2px solid black;
+}
+
+.closed {
+  background-color: lightgrey;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+body {
+  height: 690px;
+  background-color: #00ccff;
+    background: linear-gradient(rgb(0, 122, 153) 2%, #00ccff 30%, rgb(179, 240, 255) 45%, yellow 75%, #ff6600);
+}
+
+div {
+  margin: 2px;
+}
+
+#CC {
+  margin-top: 8%;
+  text-align: center;
+  font-size: 15px;
+  color: #555;
+}
+
+h1 {
+  text-align: center;
+}
